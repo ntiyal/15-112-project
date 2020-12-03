@@ -7,3 +7,5 @@ pymunk, pygame
 Install:
 pip pymunk
 pip pygame
+
+Run python file
