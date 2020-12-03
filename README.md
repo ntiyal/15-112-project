@@ -1,3 +1,9 @@
 # 15-112-project
-Download pymunk library using pip in cmd
+Physics Game
 
+Required Libraries:
+pymunk, pygame
+
+Install:
+pip pymunk
+pip pygame
